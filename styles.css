@@ -1,10 +1,14 @@
 body {
-    background-color: bisque;
+    background-color: lightgray;
 }
 
 
 h1 {
     color: blue;
+    border: 2px solid rgb(50, 137, 243);
+    padding: 10px;
+    margin: 250px;
+
 }
 
 h2 {
